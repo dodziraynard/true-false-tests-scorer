@@ -8,12 +8,16 @@ Python 3
 
 # Installing
 
+```bash
 git clone https://github.com/dodziraynard/true-false-tests-scorer.git
+```
 
 # Running
 
+```bash
 cd .\true-false-tests-scorer
 python .\app.py
+```
 
 # Sample input data
 
